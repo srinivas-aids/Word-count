@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Word-count
 ## AIM:
 To write a python program for getting the word count from a text.
@@ -7,7 +6,7 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step1:
-Start
+Start the program.
 ### Step 2:
 Declare a variable count equal to 0.
 ### Step 3:
@@ -21,7 +20,7 @@ Process count+=len(word) End loop
 ### Step 7:
 Print the value of count, which has the number of words in the file
 ### Step 8:
-Stop
+End the system
 
 ## PROGRAM:
 ~~~
@@ -40,4 +39,3 @@ print("Number of words={}".format(num_words))
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
-=======
